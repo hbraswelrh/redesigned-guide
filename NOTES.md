@@ -113,7 +113,7 @@ ______________________________________________________________________
 ______________________________________________________________________
 
 
-# r3 - \[REPLACE_ME\] Uefi Secure Boot Activation
+# r3 - \[Uefi Secure Boot Activation\] Uefi Secure Boot Activation
 
 ## Control Statement
 
